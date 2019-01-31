@@ -6,6 +6,7 @@ In this exercise, we are going to re-create a brochure, designed by László Moh
 - 4 Images [via https://www.the-saleroom.com](https://www.the-saleroom.com/en-us/auction-catalogues/christian-hesse-auktionen/catalogue-id-srchristia10006/lot-0b27712d-3a69-4b69-a40b-a81200ebc318)
 - 1 Image [via MoMa](https://www.moma.org/collection/works/8078)
 
+![Original Brochure by Moholy-Nagy](https://github.com/patshiu/PSAM-exercise2/blob/style/_reference/Stattlliches-Bauhaus-Brochure-Stitched.jpg?raw=true)
 
 #### Here is additional information on the book itself:
 - [via The Met's catalog](https://www.metmuseum.org/toah/works-of-art/2001.392/)
@@ -13,3 +14,5 @@ In this exercise, we are going to re-create a brochure, designed by László Moh
 - [via Monoskop](https://monoskop.org/log/?p=11943)
 - [pdf via http://bibliothequekandinsky.centrepompidou.fr](http://bibliothequekandinsky.centrepompidou.fr/imagesbk/FONDSKANDINSKY/FondsKandinskyL498/M5050_X0031_LKA_L498.pdf)
 - [via https://ipekdenizalpdogan.wordpress.com/](https://ipekdenizalpdogan.wordpress.com/2016/03/15/walter-gropius-program-of-staatliches-bauhaus-in-weimar/)
+
+
