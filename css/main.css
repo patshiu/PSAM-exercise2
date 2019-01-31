@@ -102,6 +102,10 @@ body {
   border-right: 0.5rem solid black;
 }
 
+.body-text {
+  padding-right: 0.8rem;
+}
+
 
 /* Page 2 Specific Styles
 ---------------------------------- */
