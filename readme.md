@@ -15,4 +15,5 @@ In this exercise, we are going to re-create a brochure, designed by László Moh
 - [pdf via http://bibliothequekandinsky.centrepompidou.fr](http://bibliothequekandinsky.centrepompidou.fr/imagesbk/FONDSKANDINSKY/FondsKandinskyL498/M5050_X0031_LKA_L498.pdf)
 - [via https://ipekdenizalpdogan.wordpress.com/](https://ipekdenizalpdogan.wordpress.com/2016/03/15/walter-gropius-program-of-staatliches-bauhaus-in-weimar/)
 
-
+### Index.html Before and After Styling.
+![Before and After](https://github.com/patshiu/PSAM-exercise2/blob/style/_reference/Before-After.jpg?raw=true)
