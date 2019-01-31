@@ -17,3 +17,8 @@ In this exercise, we are going to re-create a brochure, designed by László Moh
 
 ### Index.html Before and After Styling.
 ![Before and After](https://github.com/patshiu/PSAM-exercise2/blob/style/_reference/Before-After.jpg?raw=true)
+
+
+### Homework
+- In class today, we used css to style a plain html page. For this weeks homework, create another version of this page, with a completely different visual style. Imagine, for example, what this page would look like if it were designed by... [Misaki Kawai](https://www.google.com/search?safe=active&biw=1368&bih=943&tbm=isch&sa=1&ei=eSdTXKDBKpKe5gLc2ZP4CQ&q=misaki+kawai&oq=MisKawai&gs_l=img.3.0.0i7i30l3j0i5i30.23809.27531..29110...0.0..0.143.905.2j6....1..1....1..gws-wiz-img.......35i39j0i67j0j0i7i10i30j0i8i7i30.nbiAsmZwusI)? [David Carson](https://www.google.com/search?q=david+carson&safe=active&source=lnms&tbm=isch&sa=X&ved=0ahUKEwion4qmvZjgAhVSq1kKHc8KBaUQ_AUIDigB&biw=1368&bih=943)? [Viktor & Rolf](https://www.dezeen.com/2019/01/29/viktor-rolf-fashion-statements-haute-couture-spring-summer-2019/)? Pick any creative direction you wish, so long as it transforms the visual identity of this page.
+- We will review your work in class the follwoing week.
