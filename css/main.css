@@ -101,10 +101,38 @@ body {
 #page-2 {
   padding: 50px;
 }
-#studio-caption {
-    justify-content: flex-end;
+#studio-image {
+  background-image: url("../images/Oskar-Schlemmer-Studio.jpg");
+  height: 80vh;
+  width: 100%;
+  background-size: cover;
 }
-
+#studio-image img {
+  width: 100%;
+  display: none;
+}
+#studio-caption {
+  justify-content: flex-end;
+}
+.caption {
+  display: flex;
+  align-items: flex-end;
+}
+.caption-year h3{
+  margin: 0 0.2rem 0 0;
+}
+.caption-title {
+  text-transform: uppercase;
+  font-size: 1.6rem;
+  margin-bottom: 0.2rem;
+}
+.caption-title span {
+  border-top: 0.5rem solid red;
+}
+.caption-text {
+  margin-top: 0.2rem;
+  margin-bottom: 0;
+}
 
 /* Page 3 Specific Styles
 ---------------------------------- */
