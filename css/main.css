@@ -147,12 +147,31 @@ body {
   padding: 50px;
 }
 
+#page-3-top {
+  align-items: baseline;
+  margin-bottom: 6vh;
+}
 #page-3 h1 {
   text-transform: uppercase;
   border-top: 0.5rem solid #D0021B;
   font-size: 4rem;
   font-size: 3rem;
   letter-spacing: 0.3rem;
+  margin: 0 0 0 0.5rem;
+}
+#page-3-bottom p {
+  margin-top: 0;
+  padding-left: 20%;
+}
+
+#architechure-drawing {
+  background-image: url("../images/Farkas-Molnar-Red-House.jpg");
+  height: 50vh;
+  width: 100%;
+  background-size: cover;
+}
+#architechure-drawing img {
+  display: none;
 }
 
 /* Page 4 Specific Styles
