@@ -26,11 +26,8 @@ body {
   flex: 1
 }
 
-#page-4 {
-  flex-direction: row-reverse;
-}
-
-
+/* Page 1 Specific Styles
+---------------------------------- */
 #drop-cap {
   padding-top: 100px;
   padding-right: 0;
@@ -60,6 +57,11 @@ body {
   writing-mode: vertical-lr;
   text-orientation: mixed;
   transform: rotate(180deg);
+  margin-right: 0;
+}
+#title-bottom h3 {
+  margin: 0;
+  font-weight: lighter;
 }
 
 #leader-top {
@@ -70,8 +72,45 @@ body {
 #leader-bottom {
   border-left: 10px solid black;
   border-bottom: 10px solid black;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding: 1rem;
 }
 #leader-bottom h4, #leader-bottom h5, #leader-bottom h6 {
+  text-transform: uppercase;
   writing-mode: vertical-lr;
   text-orientation: mixed;
+}
+
+#leader-bottom h5 {
+  font-weight: lighter;
+  font-size: 2.18rem;
+  margin: 0 1.5rem 0 0;
+}
+
+#leader-bottom h6 {
+  font-size: 1.2rem;
+  margin: 0;
+  border-right: 0.5rem solid black;
+}
+
+
+/* Page 2 Specific Styles
+---------------------------------- */
+#page-2 {
+  padding: 50px;
+}
+#studio-caption.row {
+    justify-content: flex-end;
+}
+
+
+/* Page 3 Specific Styles
+---------------------------------- */
+
+/* Page 4 Specific Styles
+---------------------------------- */
+#page-4 {
+  flex-direction: row-reverse;
 }
