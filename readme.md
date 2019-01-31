@@ -13,3 +13,6 @@ Here is additional information on the 1925 publication itself:
 - (via Monoskop)[https://monoskop.org/log/?p=11943]
 - (pdf via http://bibliothequekandinsky.centrepompidou.fr)[http://bibliothequekandinsky.centrepompidou.fr/imagesbk/FONDSKANDINSKY/FondsKandinskyL498/M5050_X0031_LKA_L498.pdf]
 - (via https://ipekdenizalpdogan.wordpress.com/)[https://ipekdenizalpdogan.wordpress.com/2016/03/15/walter-gropius-program-of-staatliches-bauhaus-in-weimar/]
+
+#### Farkas Molnar's Red Cube
+- (via Diedrica)[http://www.diedrica.com/search/label/Farkas%20Moln%C3%A1r]

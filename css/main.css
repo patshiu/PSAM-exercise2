@@ -22,3 +22,10 @@ body {
 #page-4 {
   flex-direction: row-reverse;
 }
+
+#title-area {
+  text-transform: uppercase;
+}
+#title-area h1:nth-child(2) span {
+  border-bottom: 10px solid red;
+}
