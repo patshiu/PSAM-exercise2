@@ -2,8 +2,7 @@ body {
   font-family: sans-serif;
 }
 
-
-#page-1 {
+.row {
   display: flex;
 }
 .three-fifths {
@@ -13,13 +12,13 @@ body {
   flex: 2
 }
 
-.caption {
-  display: flex;
+.two-thirds {
+  flex: 2
 }
-.caption .left-side {
+.one-thirds {
+  flex: 1
 }
-.caption .right-side {
-}
-.row {
-  display: flex;
+
+#page-4 {
+  flex-direction: row-reverse;
 }
