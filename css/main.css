@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+
+
+#page-1 {
+  display: flex;
+}
+.three-fifths {
+  flex: 5
+}
+.two-fifths {
+  flex: 2
+}
+
+.caption {
+  display: flex;
+}
+.caption .left-side {
+}
+.caption .right-side {
+}
