@@ -7,6 +7,10 @@ body {
 .row {
   display: flex;
 }
+.column {
+  display: flex;
+  flex-direction: column;
+}
 .three-fifths {
   flex: 5
 
@@ -49,8 +53,24 @@ body {
   height: 200px;
   border-bottom: 10px solid black;
 }
+#title-bottom {
+  padding-top: 100px;
+}
+#title-bottom h2 {
+  writing-mode: vertical-lr;
+  text-orientation: mixed;
+  transform: rotate(180deg);
+}
 .leader-top {
   height: 200px;
   border-left: 10px solid black;
   border-bottom: 10px solid black;
+}
+.leader-bottom {
+  border-left: 10px solid black;
+  border-bottom: 10px solid black;
+}
+.leader-bottom h4, .leader-bottom h5, .leader-bottom h6 {
+  writing-mode: vertical-lr;
+  text-orientation: mixed;
 }
