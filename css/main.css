@@ -26,6 +26,13 @@ body {
   flex: 1
 }
 
+.two-sevenths {
+  flex: 2;
+}
+.five-sevenths {
+  flex: 5;
+}
+
 /* Page 1 Specific Styles
 ---------------------------------- */
 #drop-cap {
@@ -136,6 +143,17 @@ body {
 
 /* Page 3 Specific Styles
 ---------------------------------- */
+#page-3 {
+  padding: 50px;
+}
+
+#page-3 h1 {
+  text-transform: uppercase;
+  border-top: 0.5rem solid #D0021B;
+  font-size: 4rem;
+  font-size: 3rem;
+  letter-spacing: 0.3rem;
+}
 
 /* Page 4 Specific Styles
 ---------------------------------- */
